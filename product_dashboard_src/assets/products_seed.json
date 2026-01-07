@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Kids Vitamin Gummies",
+      "category": "Health",
+      "price": 12.99,
+      "stock": 25
+    },
+    {
+      "id": 1002,
+      "title": "School Backpack",
+      "category": "School",
+      "price": 29.5,
+      "stock": 0
+    },
+    {
+      "id": 1003,
+      "title": "Story Book Set",
+      "category": "Books",
+      "price": 18.0,
+      "stock": 12
+    }
+  ]
+}
